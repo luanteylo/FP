@@ -30,5 +30,3 @@ else:
 	print("Media: %.2f " % media)
 	
 	procura_elementos(items, media)
-
-
